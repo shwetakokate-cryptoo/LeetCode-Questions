@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0486-predict-the-winner](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0877-stone-game) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0001-two-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
