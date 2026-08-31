@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0486-predict-the-winner](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0877-stone-game) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
