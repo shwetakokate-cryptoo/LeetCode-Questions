@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0486-predict-the-winner](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1140-stone-game-ii) |
@@ -307,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
