@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0006-zigzag-conversion) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
