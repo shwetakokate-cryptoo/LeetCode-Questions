@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0006-zigzag-conversion) |
+| [0940-distinct-subsequences-ii](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0486-predict-the-winner](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1872-stone-game-viii) |
