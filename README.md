@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0486-predict-the-winner](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 ## Segment Tree
 |  |
