@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2029-stone-game-ix) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2029-stone-game-ix) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
