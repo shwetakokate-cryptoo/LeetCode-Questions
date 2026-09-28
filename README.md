@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0007-reverse-integer) |
 | [0486-predict-the-winner](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0788-rotated-digits](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0788-rotated-digits) |
 | [0836-rectangle-overlap](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1140-stone-game-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
 | [0486-predict-the-winner](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0486-predict-the-winner) |
+| [0788-rotated-digits](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1140-stone-game-ii) |
