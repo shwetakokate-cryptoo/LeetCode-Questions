@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1861-rotating-the-box](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1861-rotating-the-box) |
 | [1872-stone-game-viii](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1872-stone-game-viii) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1927-sum-game](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
