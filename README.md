@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
+| [1306-jump-game-iii](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1406-stone-game-iii) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1306-jump-game-iii) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0301-remove-invalid-parentheses) |
+| [1306-jump-game-iii](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1306-jump-game-iii) |
 | [2685-count-the-number-of-complete-components](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
