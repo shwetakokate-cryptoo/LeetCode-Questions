@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0486-predict-the-winner](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0835-image-overlap) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2540-minimum-common-value) |
