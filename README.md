@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0007-reverse-integer) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0788-rotated-digits) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0835-image-overlap) |
