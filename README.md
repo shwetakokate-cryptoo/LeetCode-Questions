@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1260-shift-2d-grid) |
 | [1306-jump-game-iii](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0005-longest-palindromic-substring) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1861-rotating-the-box](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1861-rotating-the-box) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2540-minimum-common-value) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
