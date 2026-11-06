@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2540-minimum-common-value) |
+| [2747-count-zero-request-servers](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2540-minimum-common-value](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2540-minimum-common-value) |
+| [2747-count-zero-request-servers](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2747-count-zero-request-servers](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shwetakokate-cryptoo/LeetCode-Questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
